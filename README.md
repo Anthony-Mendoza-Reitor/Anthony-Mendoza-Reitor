@@ -5,7 +5,7 @@
 - 🔄 I’m looking to collaborate on **open-source projects** that involve **Python** or **JavaScript**.
 - 🏁 I’m looking for help with **job opportunities** in **software engineering** or **full-stack development** as I approach graduation in December 2024.
 - 💬 Ask me about **Mechanical Engineering**, **3D design**, and my experiences with **BMW Manufacturing LLC** or **Pratt & Whitney**.
-- 📫 How to reach me: [LinkedIn](www.linkedin.com/in/anthony-mendoza-reitor/)
+- 📫 How to reach me: [LinkedIn](http://www.linkedin.com/in/anthony-mendoza-reitor/)
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: I love building gaming computers, video games, and experimenting with **Arduino sensors** in my free time!
 

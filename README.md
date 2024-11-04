@@ -28,6 +28,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
   <img width="12" />
+  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg" height="40" alt="sqlite3 logo" />
+  <img width="12" />
 
 ###
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anthony-Mendoza-Reitor&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
